@@ -16,7 +16,7 @@ IP    : 192.168.68.1
 Port  : 55418
 
 ### Number 2
-![Foto](./img/Images(2).png)
+![Foto](./img/images(2).png)
 
 Answer :
 Port 80
