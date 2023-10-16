@@ -6,4 +6,4 @@ NRP    : 5025211178
 
 ## TCP
 
-[Foto](./img/image.png)
+![Foto](./img/image.png)
